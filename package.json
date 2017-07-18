@@ -1,5 +1,5 @@
 {
-  "name": "az-router",
+  "name": "generic-router",
   "description": "Router middleware for koa. Provides RESTful resource routing.",
   "repository": {
     "type": "git",
